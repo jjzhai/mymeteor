@@ -1,0 +1,36 @@
+{
+  "builtBy": "meteor/16",
+  "unibuildDependencies": {
+    "os.json": {
+      "files": {
+        "/home/simple-app/packages/test-package/package.js": "2c6193b06ba62ba7b0ab754b151f43a22fbef513",
+        "/home/simple-app/packages/test-package/test-package.js": "1882946a1aeaa1d69f8911ec179e319d0b1c0889"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/home/simple-app/packages/test-package/package.js": "2c6193b06ba62ba7b0ab754b151f43a22fbef513",
+        "/home/simple-app/packages/test-package/test-package.js": "1882946a1aeaa1d69f8911ec179e319d0b1c0889"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/home/simple-app/packages/test-package/package.js": "2c6193b06ba62ba7b0ab754b151f43a22fbef513"
+    },
+    "directories": []
+  },
+  "pluginProviderPackageMap": {
+    "test-package": {
+      "kind": "local",
+      "sourceRoot": "/home/simple-app/packages/test-package"
+    },
+    "meteor": {
+      "kind": "versioned",
+      "version": "1.1.6"
+    }
+  },
+  "includeCordovaUnibuild": false
+}
